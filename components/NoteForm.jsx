@@ -20,7 +20,7 @@ const NoteForm = ({
 
   return (
     <motion.div
-      className="flex flex-col items-center justify-center h-full px-2 md:px-8 bg-red-500 w-full md:w-[70%] z-10"
+      className="flex flex-col items-center justify-center h-full px-2 md:px-8 w-full md:w-[70%] z-10"
       initial="hidden"
       animate="show"
       exit="exit"
